@@ -225,13 +225,14 @@ header{
     justify-content:space-between;
     align-items: center;
     padding: 24px 0;
-    
-      
-   
+    padding: 0 15px;
 }
+
+
 .site-nav{
     display: flex;
     align-items: center;
+    padding: 24px 0;
 
 }
 .site-nav-list {
@@ -315,11 +316,11 @@ header{
 }
 .punkt-team{
     width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
 }
 .team-list{
     display: flex;
     gap: 24px;
-    border-radius: 0px 0px 4px 4px;
     padding-left: 0;
     margin: 0;
     
@@ -371,6 +372,6 @@ header{
     display: inline-block;
     margin-bottom: 16px;
 }
-.footer-end .text {
+.container-footer .text {
     max-width: 264px;
 }
