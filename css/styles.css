@@ -219,8 +219,10 @@ color: #404bbf;
 
 header{
     border-bottom: 1px solid #e7e9fc;
-    padding-top: 24px;
-    padding-bottom: 24px;
+
+}
+.header-item{
+    padding: 24px 0;
 }
 .page-header .container {
     display: flex;
