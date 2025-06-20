@@ -219,12 +219,17 @@ color: #404bbf;
 
 header{
     border-bottom: 1px solid #e7e9fc;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 .page-header .container {
     display: flex;
     justify-content:space-between;
     align-items: center;
-    padding: 24px 15px 24px 15px;
+    padding-left: 15px;
+    padding-right: 15px;
     
 }
 
@@ -372,6 +377,6 @@ header{
     display: inline-block;
     margin-bottom: 16px;
 }
-.container-footer .text {
+.botom .text {
     max-width: 264px;
 }
