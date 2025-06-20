@@ -221,9 +221,10 @@ header{
     border-bottom: 1px solid #e7e9fc;
 
 }
-.header-item{
+.header, .link-logo, .link{
     padding: 24px 0;
 }
+    
 .page-header .container {
     display: flex;
     justify-content:space-between;
