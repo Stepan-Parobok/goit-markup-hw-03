@@ -244,6 +244,8 @@ header{
     display: flex;
     align-items: center;
     gap: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
         
 
 }
@@ -251,7 +253,8 @@ header{
     display: flex;
     align-items: center;
     gap: 40px;
-    
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .page-solutions{
